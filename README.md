@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently broadening my knowledge about Java, Spring, Angular, React, algorithms, and data structures.
+- 🌱 I’m currently broadening my knowledge about **Java, Spring, Angular, React, algorithms, and data structures**
 
 - 👨‍💻 All of my projects are available at [https://bartoszpodlinski.net/](https://bartoszpodlinski.net/)
 
